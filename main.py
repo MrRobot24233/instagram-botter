@@ -15,16 +15,16 @@ os.system("title Instagram followers, likes and views botter.")
 os.color("a")
 
 def __main__:
- account_name=input("Account name ? ")
-   if account_name=="":
-     print('please input a real name')
-   else if req.on(`www.instagram.com/%account_name%`)==Flase:
+ account_name=input("بودالي فاتح")
+   if account_name=="":بودالي فاتح
+     print('بودالي فاتح')
+   else if req.on(`www.instagram.com/%بودالي فاتح%`)==Flase:
      print('I didnt found your instagram account')
  print("Please choose a botter category:')
  print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("");
    choose=input('> ')
        if choose=="1":
-          url=input('Paste your instagram post url (your account need to be public')
+          url=input(‎https://www.instagram.com/_bdl._.fateh_?igsh=YzljYTk1ODg3Zg==‎‏)
           if req.url==False:
        print('cannot find the post')
           else: 
